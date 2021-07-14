@@ -31,21 +31,12 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Sarpado's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Sarpado's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
+[youtube]: https://www.youtube.com/channel/UCtE3mMB9hjFKTRLSxIpUM5g
+[instagram]: https://www.instagram.com/t.morales06/
 [portfolio]: https://arsentieva.github.io/profile/
