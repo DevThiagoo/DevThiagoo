@@ -12,10 +12,10 @@
 <br />
 
 <a href="https://github.com/Jaapoon">
-  <img align="center" src=https://github-readme-stats.vercel.app/api?username=SarpadoConfigs&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=Jaapoon&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
 </a>
 <a href="https://github.com/Jaapoon">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=SarpadoConfigs&layout=compact&theme=radical />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Jaapoon&layout=compact&theme=radical />
 </a>
 
 <br />
@@ -32,4 +32,4 @@
 
 <br />
 
-[My Twitter]: https://twitter.com/Sarpadou
+[My Twitter]: https://twitter.com/Jaapoonxd
