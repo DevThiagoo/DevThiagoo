@@ -3,7 +3,7 @@
 <br />
 
 - 🔭 Im currently working on [@Jaapoon](https://github.com/Jaapoon).  
-- 📫 How to reach me: Jaapoon#1169 in discord
+- 📫 How to reach me: Sarpado#0600 in discord
 
 <br />
 
