@@ -1,9 +1,9 @@
-### Hi, Im Jaapoon 👋
+### Hi, Im ThiaG0D 👋
 
 <br />
 
-- 🔭 Im currently working on [@Jaapoon](https://github.com/Jaapoon).  
-- 📫 How to reach me: Sarpado#0600 in discord
+- 🔭 Im currently working on [@ThiaG0D](https://github.com/Thiagoumm).  
+- 📫 How to reach me: ThiaG0D#0600 in discord
 
 <br />
 
@@ -11,11 +11,11 @@
 
 <br />
 
-<a href="https://github.com/Jaapoon">
-  <img align="center" src=https://github-readme-stats.vercel.app/api?username=Jaapoon&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
+<a href="https://github.com/ThiaG0D">
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=ThiaG0D&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
 </a>
-<a href="https://github.com/Jaapoon">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Jaapoon&layout=compact&theme=radical />
+<a href="https://github.com/ThiaG0D">
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ThiaG0D&layout=compact&theme=radical />
 </a>
 
 <br />
@@ -32,4 +32,4 @@
 
 <br />
 
-[My Twitter]: https://twitter.com/Jaapoonxd
+[My Twitter]: https://twitter.com/Thiagoumm
