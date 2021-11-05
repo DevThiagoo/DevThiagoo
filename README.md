@@ -2,7 +2,7 @@
 
 <br />
 
-- 🔭 Im currently working on [@ThiaG0D](https://github.com/Thiagoumm).  
+- 🔭 Im currently working on [@ThiaG0D](https://github.com/ThiaG0D).  
 - 📫 How to reach me: ThiaG0D#0600 in discord
 
 <br />
