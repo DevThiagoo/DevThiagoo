@@ -1,21 +1,21 @@
-### Hi, Im ThiaG0D 👋
+### Hi, Im Thiaguito 👋
 
 <br />
 
-- 🔭 Im currently working on [@ThiaG0D](https://github.com/ThiaG0D).  
-- 📫 How to reach me: ThiaG0D#0600 in discord
+- 🔭 Im currently working on [@Thiaguito](https://github.com/Thiaguito).  
+- 📫 How to reach me: Thiaguito#1495 in discord
 
 <br />
 
-<img align="left" alt="Jaapoon" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />[My Twitter] 
+<img align="left" alt="Thiaguito" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />[My Twitter] 
 
 <br />
 
-<a href="https://github.com/ThiaG0D">
-  <img align="center" src=https://github-readme-stats.vercel.app/api?username=ThiaG0D&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
+<a href="https://github.com/Thiaguito">
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=Thiaguito&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
 </a>
 <a href="https://github.com/ThiaG0D">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ThiaG0D&layout=compact&theme=radical />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Thiaguito&layout=compact&theme=radical />
 </a>
 
 <br />
