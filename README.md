@@ -2,7 +2,7 @@
 
 <br />
 
-- 🔭 Im currently working on [@Thiaguito](https://github.com/Thiaguito).  
+- 🔭 Im currently working on [@Thiaguito](https://github.com/DevThiagoo).  
 - 📫 How to reach me: Thiaguito#1495 in discord
 
 <br />
@@ -12,10 +12,10 @@
 <br />
 
 <a href="https://github.com/Thiaguito">
-  <img align="center" src=https://github-readme-stats.vercel.app/api?username=Thiaguito&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=DevThiagoo&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
 </a>
 <a href="https://github.com/ThiaG0D">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Thiaguito&layout=compact&theme=radical />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=DevThiagoo&layout=compact&theme=radical />
 </a>
 
 <br />
